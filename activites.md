@@ -3,15 +3,11 @@ title: Activités
 order: 1
 ---
 
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+L’association œuvre en collaboration avec l'établissement français du sang (de la marne) et a pour mission de sensibiliser les personnes au don du sang. Elle entend aussi et surtout faire revenir les personnels (salariéés et fonctionnaires) des entreprises de La Poste et d'Orange.
 
 ## Nos activités
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
-
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+- 4 collectes (pour le moment) par an au sein du centre financier de Châlons
+- Diffusion d'informations sur le Don auprès des centaines de donneurs
+- Sensibilisation via des Espace Temps Communication
+- Participation à des séminaires (Université du Don, congrès, etc.)
