@@ -3,6 +3,7 @@ collections:
     output: true
 plugins:
   - jekyll-feed
+  - jekyll-git-hash
 theme: mimoza
 scribouilli: true
 baseurl: /association-du-don-de-sang-la-poste-orange-de-la-marne
