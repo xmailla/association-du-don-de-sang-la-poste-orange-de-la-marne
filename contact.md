@@ -3,7 +3,14 @@ title: Contact
 order: 1
 ---
 
-L'Échappée Belle est actuellement composée de 6 membres.
+Notre association est actuellement composée de 9 bénévoles.
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
+Le Bureau est tenu par:
+- Xavier Maillard, Président
+- Isabelle Soubeyre, Vice-Présidente
+- Laurent Petitjean, Trésorier
+- Francis Henri, Secrétaire
+
+
+Pour nous contacter : [contact@ddslpo51.org](mailto:contact@ddslpo51.org)
 `
