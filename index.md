@@ -13,5 +13,5 @@ Les collectes sont assurées par le personnel médical de l'établissement fran�
 
 <div class="encart">
 <p>Prochaine collecte: jeudi 05 juin 2025.</p>
-<a href=https://dondesang.efs.sante.fr/trouver-une-collecte/020.5.LMC670/sang/>Prenez rendez-vous dès maintenant</a>
+<a href="https://dondesang.efs.sante.fr/trouver-une-collecte/020.5.LMC670/sang/">Prenez rendez-vous dès maintenant</a>
 </div> 
