@@ -1,8 +1,8 @@
 ---
-title: Contact
-order: 1
+title: "Contact"
+order: 2
+in_menu: true
 ---
-
 Notre association est actuellement composée de 9 bénévoles.
 
 Le Bureau est tenu par:
